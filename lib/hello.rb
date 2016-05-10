@@ -3,3 +3,5 @@
 # defaulting ARGV
 name = ARGV.first || "World"
 puts "hello, #{name}!"
+puts "hello hello"
+
